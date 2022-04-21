@@ -26,7 +26,7 @@
 * Visual Studio 2019.
 
 ##### Build Steps
-1. Point your Unreal Engine Project, create Plugins  to the `WebSocketServer.uplugin` file to load the plugin into Unreal Engine.
+1. Point your Unreal Engine Project, create Plugins  to the `VirtualWorld.uplugin` file to load the plugin into Unreal Engine.
 
 2. To package the plugin, run the `RunUAT.bat` command :
 
